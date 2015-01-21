@@ -1,0 +1,19 @@
+{
+  "name": "webpack-less-autoprefixer-sourcemaps",
+  "version": "0.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "dependencies": {
+    "autoprefixer-loader": "git://github.com/3sv/autoprefixer-loader",
+    "css-loader": "^0.9.1",
+    "less": "^2.2.0",
+    "less-loader": "git://github.com/3sv/less-loader",
+    "style-loader": "^0.8.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
